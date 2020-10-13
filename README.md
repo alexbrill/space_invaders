@@ -1,6 +1,6 @@
 # space_invaders
 
-writed using Pygame
+using Pygame
 
 controls: arrows and space
 
